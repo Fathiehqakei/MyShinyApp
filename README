@@ -2,9 +2,8 @@
 
 ## Running the App
 
-To run the app directly from GitHub, use the following command in R:
+To run the app directly from GitHub, use the following command in R (make sure to install all the necessary packages):
 
-```R
 shiny::runGitHub("Fathiehqakei/MyShinyApp")
  
  
